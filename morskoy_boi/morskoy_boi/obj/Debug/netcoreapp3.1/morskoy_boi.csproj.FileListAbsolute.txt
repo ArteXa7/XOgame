@@ -1,0 +1,11 @@
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\bin\Debug\netcoreapp3.1\morskoy_boi.exe
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\bin\Debug\netcoreapp3.1\morskoy_boi.deps.json
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\bin\Debug\netcoreapp3.1\morskoy_boi.runtimeconfig.json
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\bin\Debug\netcoreapp3.1\morskoy_boi.runtimeconfig.dev.json
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\bin\Debug\netcoreapp3.1\morskoy_boi.dll
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\bin\Debug\netcoreapp3.1\morskoy_boi.pdb
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\obj\Debug\netcoreapp3.1\morskoy_boi.csprojAssemblyReference.cache
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\obj\Debug\netcoreapp3.1\morskoy_boi.AssemblyInfoInputs.cache
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\obj\Debug\netcoreapp3.1\morskoy_boi.AssemblyInfo.cs
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\obj\Debug\netcoreapp3.1\morskoy_boi.dll
+C:\Users\Artexa\source\repos\morskoy_boi\morskoy_boi\obj\Debug\netcoreapp3.1\morskoy_boi.pdb
